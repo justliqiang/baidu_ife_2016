@@ -1,0 +1,34 @@
+/**{
+	margin: 10;
+	padding: 10;
+}*/
+a{
+	text-decoration: none;
+}
+.alert{
+	background-color: #D9EDF7;
+}
+.alert-info{
+
+}
+.task{
+	list-style: none;
+}
+.task-content{
+
+}
+.task-info{
+
+}
+.task-title{
+
+}
+.task-detail{
+
+}
+.task-left{
+
+}
+.task-right{
+
+}
